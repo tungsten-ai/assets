@@ -1,2 +1,1 @@
-# static-resources
-Image repository
+# Image repository
